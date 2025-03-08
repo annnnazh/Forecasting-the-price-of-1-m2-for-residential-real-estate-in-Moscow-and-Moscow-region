@@ -1,4 +1,4 @@
-# Forecasting-the-price-of-1-m2-for-residential-real-estate-in-Moscow-and-Moscow-region
+# Forecasting the price of 1 m2 for residential real estate in Moscow and Moscow region
 Прогнозирование цены 1 м2 на жилую недвижимость в Москве и МО
 
 Данный проект является домашней работой в рамках курса по машинному обучению. Одним из условий работы была симуляция данных.
